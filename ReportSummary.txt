@@ -1,0 +1,6 @@
+Pattern found in line 1:  123.45
+Pattern found in line 3:  25000.00
+Pattern found in line 5:  123.45
+Pattern found in line 6:  666.66
+
+Sum of all valid values is: 25913.56
