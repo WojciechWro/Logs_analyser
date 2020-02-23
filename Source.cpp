@@ -14,10 +14,10 @@ atomic_bool readyFlag(false);
 
 int main(int argc, char** argv)
 {
-	Publisher* publisher = new Publisher;
+	Publisher *publisher = new Publisher;
 	
-	Observer* observer1 = new Observer(*publisher);
-	Observer* observer2 = new Observer(*publisher);
+	Observer *observer1 = new Observer(*publisher);
+	Observer *observer2 = new Observer(*publisher);
 	
 	/* Without async thread - uncomment below
 	publisher->createMessageAndTriggerTask("Some action and notification started"); */
