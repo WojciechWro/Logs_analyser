@@ -1,6 +1,9 @@
 Pattern found in line 1:  123.45
+	Not valid data in: 2014.01.02T12:00:14, 67 1234 5678 0000 0000 1234 5678, 68 1234 5678 0000 0000 1234 5678, 
 Pattern found in line 3:  25000.00
+	Not valid data in: 2020.01.02T12:00:11, 67 1234 5678 0000 0000 1234 5678, 68 1234 5678 0000 0000 1234 5678, xxx23.45
 Pattern found in line 5:  123.45
 Pattern found in line 6:  666.66
+Pattern found in line 7:  77.66
 
-Sum of all valid values is: 25913.56
+Sum of all valid values is: 25991.22

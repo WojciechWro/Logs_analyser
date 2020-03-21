@@ -1,8 +1,8 @@
 #include "Publisher.hpp"
 #include "Observer.hpp"
 
-#include <gmock/gmock.h>
-#include <gtest/gtest.h>
+#include "gmock/gmock.h"
+#include "gtest/gtest.h"
 
 class PublisherTest : public ::testing::Test
 {
